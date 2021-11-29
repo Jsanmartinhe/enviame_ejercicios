@@ -1,0 +1,7 @@
+Script desarrollado en Node JS
+
+Para ejecutar ingrese el siguiente comando:
+
+# node carriers.js
+
+Retornará como resultado lo solicitado en ejercicio 2
