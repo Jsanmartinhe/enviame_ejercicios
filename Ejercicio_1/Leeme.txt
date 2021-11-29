@@ -1,0 +1,9 @@
+Script desarrollado en Node JS
+
+Para ejecutar se debe llamar al script con 2 parámetros:
+
+Ejemplo: 
+
+# node numerosPrimos.js 3 7
+
+Contiene validación de parámetros.
